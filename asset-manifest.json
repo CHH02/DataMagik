@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DataMagik/static/css/main.8c0a3191.css",
-    "main.js": "/DataMagik/static/js/main.7909be05.js",
+    "main.js": "/DataMagik/static/js/main.e9402f74.js",
     "static/media/Data_Magik_Logo_2.png": "/DataMagik/static/media/Data_Magik_Logo_2.b15fbedbfe0119667d41.png",
     "static/media/texasHoldEmLogo.jpg": "/DataMagik/static/media/texasHoldEmLogo.39eb0ff842e946d0a501.jpg",
     "index.html": "/DataMagik/index.html",
     "main.8c0a3191.css.map": "/DataMagik/static/css/main.8c0a3191.css.map",
-    "main.7909be05.js.map": "/DataMagik/static/js/main.7909be05.js.map"
+    "main.e9402f74.js.map": "/DataMagik/static/js/main.e9402f74.js.map"
   },
   "entrypoints": [
     "static/css/main.8c0a3191.css",
-    "static/js/main.7909be05.js"
+    "static/js/main.e9402f74.js"
   ]
 }
