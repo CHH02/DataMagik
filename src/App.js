@@ -11,8 +11,8 @@ const App = () => {
       <Router>
         <Navbar />
         <Routes>
-          <Route path='/DataMagik' exact Component={Home} />
-          <Route path='/menu' exact Component={Menu} />
+          <Route path='/DataMagik/' exact Component={Home} />
+          <Route path='/DataMagik/menu' exact Component={Menu} />
         </Routes>
         <Footer />
       </Router>
